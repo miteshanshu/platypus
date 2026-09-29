@@ -1,5 +1,17 @@
 # Changelog
 
+## [3.14.0](https://github.com/willdady/platypus/compare/v3.13.0...v3.14.0) (2026-09-29)
+
+
+### Features
+
+* **backend:** serve an MCP's last-known tool listing when a turn fails to fetch it ([#1110](https://github.com/willdady/platypus/issues/1110)) ([7fb82a4](https://github.com/willdady/platypus/commit/7fb82a45038b51bd5ea55252acb3324863959f05))
+
+
+### Bug Fixes
+
+* **frontend:** show agent avatars as circles ([#1107](https://github.com/willdady/platypus/issues/1107)) ([726f5e3](https://github.com/willdady/platypus/commit/726f5e3fce238496c328ab0b79f234035b808e4e))
+
 ## [3.13.0](https://github.com/willdady/platypus/compare/v3.12.1...v3.13.0) (2026-09-27)
 
 
